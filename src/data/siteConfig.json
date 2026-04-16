@@ -1,0 +1,53 @@
+{
+  "name": "SHOPITOS",
+  "slug": "shopitos.com.br",
+  "description": "O Shopitos é um Blog que está transformando os conhecimentos e estratégias de negócios em torno de marketing digital, vendas online e ecommerce. Nosso trabalho inclui o pesquisa, conhecimento de causa, produção, e revisão de conteúdos recentes e de alta impacto para nossos leitores. A atuação da empresa baseia-se em garantir a excelência na prestação de conteúdo a empresários e desenvolvedores, maximizando a geração de valor para seus negócios, clientes, colaboradores, acionistas e sociedade. Além do conhecimento gratuito que entregamos, um outro produto é a nossa consultoria personalizada.  Nessa consultoria nós entendemos seu negócio, seja lá qual for ele, e se compreendermos que podemos mudar seu negócio através de novas estratégias, entra em ação a nossa equipe altamente qualificada e dedicada a fazer seu negócio vender mais e melhor. Para saber mais, entre em contato",
+  "url": "https://shopitos.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "O Shopitos e um Blog que esta transformando os conhecimentos e estrategias",
+  "email": "contato@shopitos.com.br",
+  "palette": "ocean",
+  "colors": {
+    "primary": "#0ea5e9",
+    "accent": "#0369a1",
+    "dark": "#0c4a6e"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-A",
+    "hero": "Hero-D",
+    "features": "Features-H",
+    "about": "About-E",
+    "posts": "Posts-D",
+    "footer": "Footer-J",
+    "sobre": "Sobre-B",
+    "contato": "Contato-E"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

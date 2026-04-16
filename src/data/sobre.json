@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o SHOPITOS"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No Shopitos, nosso compromisso é transformar o conhecimento do mercado em soluções práticas e eficientes para empresários e desenvolvedores. Compartilhamos estratégias valiosas que realmente fazem a diferença no mundo do e-commerce."
+  },
+  "content": "Nosso objetivo é trazer informações relevantes e atualizadas sobre o mercado digital, ajudando você a se destacar em um ambiente competitivo. Além de conteúdos gratuitos, fornecemos consultoria para você que busca um apoio mais direto e estratégico.",
+  "mission": "Maximizar a geração de valor para empresários e suas comunidades, promovendo conhecimento e transformando desafios em oportunidades.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "SHOPITOS — Bem-vindo ao Shopitos",
+    "description": "Transformando seu conhecimento em estratégias de sucesso"
+  },
+  "hero": {
+    "title": "Bem-vindo ao Shopitos",
+    "subtitle": "Transformando seu conhecimento em estratégias de sucesso",
+    "btnText": "Saiba mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "📈",
+        "title": "Conteúdo de Alta Qualidade",
+        "desc": "Oferecemos artigos e guias atualizados sobre marketing digital e vendas online para impulsionar seu negócio."
+      },
+      {
+        "icon": "💡",
+        "title": "Consultoria Personalizada",
+        "desc": "Entendemos seu negócio a fundo e desenvolvemos estratégias sob medida para maximizar suas vendas."
+      },
+      {
+        "icon": "🌐",
+        "title": "Experiência e Credibilidade",
+        "desc": "Nossa equipe é composta por especialistas com vasta experiência no mercado, prontos para ajudar você."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o Shopitos",
+    "desc": "No Shopitos, nosso compromisso é transformar o conhecimento do mercado em soluções práticas e eficientes para empresários e desenvolvedores. Compartilhamos estratégias valiosas que realmente fazem a diferença no mundo do e-commerce.",
+    "stats": [
+      {
+        "value": "10k+",
+        "label": "Leitores Mensais"
+      },
+      {
+        "value": "500+",
+        "label": "Artigos Publicados"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfação do Cliente"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
